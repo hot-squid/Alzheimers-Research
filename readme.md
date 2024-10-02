@@ -4,4 +4,6 @@ and neuropsychiatric questionnaires. In other words, data that is accessible and
 doesn't require brain scans or invasive procedures.
 
 There are two files 1) Analysis.ipynb which is a Jupyter Notebook file that 
-includes all the code and markdowns and 2) The Data file. 
+includes all the code and markdowns and 2) The Data file.
+
+Full details of data variables can be found in Jupyter notebook. 
